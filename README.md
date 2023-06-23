@@ -11,6 +11,7 @@
 #===> To install the program all you need to do is to
 #1.) specify the path to your ".pcapng" file. You should try specifying the absolute file path.
 #2.) specify both the source ip  and  destination ip.
+#3.) After making the necessary changes, run with 'python3 app_packet_detector.py'
 
 # How it work:
 
